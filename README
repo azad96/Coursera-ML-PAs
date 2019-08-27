@@ -1,0 +1,5 @@
+This repo contains my implementations for the programming assignments
+of Andrew Ng who is an instructor for the machine learning course in Coursera.
+
+The programming assignments are implemented in Octave and the version of
+the GNU Octave that I used is 4.2.2
